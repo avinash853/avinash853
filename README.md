@@ -8,4 +8,4 @@
 HTML, CSS, JavaScript, React
 
 ## 📫 Connect
-LinkedIn: https://linkedin.com/in/avinash-verma
+LinkedIn: https://www.linkedin.com/in/avinash-verma-2a2935327
