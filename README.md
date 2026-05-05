@@ -10,13 +10,14 @@
 - 💻 Skilled in HTML, CSS, JavaScript & React  
 - 🌱 Currently learning DSA & Advanced React  
 - 🚀 Building real-world projects  
-- 📫 Reach me at: avinashverma96028@gmail.com  
+- 📫 Reach me at: **avinashverma96028@gmail.com**  
 
 ---
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avinash-verma-2a2935327)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Avi_9569/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:avinashverma96028@gmail.com)
 
 ---
 
