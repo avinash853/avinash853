@@ -10,7 +10,6 @@
 - 💻 Skilled in HTML, CSS, JavaScript & React  
 - 🌱 Currently learning DSA & Advanced React  
 - 🚀 Building real-world projects  
-- 📫 Reach me at: **avinashverma96028@gmail.com**  
 
 ---
 
@@ -34,6 +33,24 @@
 - 🔹 Mini E-commerce UI  
 
 👉 More projects: https://github.com/avinash853?tab=repositories  
+
+---
+
+## ✨ Achievements & Goals
+
+- 🏆 Solved **250+ DSA problems** on LeetCode  
+- 🧠 Maintained consistency in problem solving  
+- 💻 Built multiple projects using React & JavaScript  
+- 🎯 Goal: Crack Software Engineering Internship  
+- 🚀 Preparing for upcoming tech interviews  
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced JavaScript & React  
+- Data Structures & Algorithms  
+- Problem solving on LeetCode  
 
 ---
 
